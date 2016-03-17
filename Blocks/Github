@@ -1,6 +1,6 @@
 #!/bin/bash
 
-something=$(curl -s https://api.github.com/notifications\?access_token\={{ 55e2b52016e1f9b4aa1022592f06da6d16cbff1a }} \
+something=$(curl -s https://api.github.com/notifications\?access_token\={{ Your Token }} \
     | grep "unread" \
     | wc -l)
 
