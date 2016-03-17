@@ -1,0 +1,67 @@
+{
+       "segment_data": {
+         "email_imap_alert": {
+           "args": {
+             "username": "thiagors1983@gmail.com",
+             "password": "Carol@Ana24082010",
+             "server": "imap.gmail.com",
+             "port": 993
+          }
+         }
+        },
+        "segments": {
+                "right": [
+
+                        {
+                             "function": "powerline.segments.common.vcs.branch"
+                        },
+
+                        {
+                             "function": "powerline.segments.common.env.cwd",
+                             "name": "cwd",
+                             "args": {
+                                 "dir_limit_depth": 3
+                        }
+                        },
+
+                        {
+                              "function": "powerline.segments.common.net.internal_ip",
+                              "args": {
+                                 "interface": "enp3s0"
+                             }
+                        },
+
+                        {
+                             "function": "powerline.segments.common.players.mpd",
+                             "name": "player"
+                        },
+
+                        {
+                             "function": "powerline.segments.common.mail.email_imap_alert"
+                        },
+
+                        {
+                                "function": "powerline.segments.common.wthr.weather",
+                                "priority": 50,
+                                "args": {
+                                        "unit": "C",
+                                        "location_query": "Uberlandia, Brazil"
+                                }
+                        },
+
+			{
+				"function": "powerline.segments.common.time.date",
+				"name": "time",
+				"args": {
+					"format": "%H:%M",
+					"istime": true
+				}
+			},
+
+                        {
+                                        "function": "powerline.segments.common.net.hostname"
+                        }
+
+                   ]
+        }
+}
