@@ -1,8 +1,25 @@
 # Arch Linux
 My Arch Linux workstation!!
  
-![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-19-13:17:02.png "Screenshot")
+![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-18-16:02:36.png "Screenshot")
+
+Vim
  
+![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:12:14.png "Vim")
+
+Ncmpcpp
+
+![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:11:23.png "Ncmpcpp")
+
+Weechat
+
+![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:12:58.png "Weechat")
+
+Tmux and others softwares
+
+![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:17:27.png "Tmux")
+
+
 # Author
 [Morgareth][facebook]
  
