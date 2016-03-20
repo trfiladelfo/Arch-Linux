@@ -9,75 +9,75 @@
  
 """""""""""""""""""""""""""""""Configurações"""""""""""""""""""""""""""""""""""""""""""""
  
-" Usa as definições do vim, não as do vi
+"Use the vim settings, not vi
 set nocompatible
 "
-" Define o tamanho do histórico de comandos do vim:
+"Sets the size of vim's command history:
 set history=1000
 "
-" Habilita o reconhecimento de arquivos
+"Enables the recognition files
 filetype plugin on
 filetype indent on
 "
-" Recarrega o arquivo caso ele seja editado por um programa externo enquanto aberto
+"Reloads the file if it is edited by an external program while open
 set autoread
 "
-" Desabilitar backups:
+"Disable backups:
 set nobackup
 set noswapfile
 set nowritebackup
 "
-" Mostra o modo que você esta.
+"It shows the way you are 
 set showmode
 "
-" Busca:
+" Search:
 set hlsearch
 set ignorecase
 set smartcase
 set incsearch
 "
-" Limpar os resultados destacados:
+"Clear the outstanding results:
 nmap <silent> <C-C> :silent noh<CR>
 "
-" Clipboard do sistema:
+" Clipboard system:
 set clipboard=unnamed
 "
-" Altura da barra de comandos
+"Height command bar
 set cmdheight=2
 "
-" Habilita expressões regulares
+"Enable regular expressions
 set magic
 "
-" Habilita o destaque de sintaxe
+"Enable syntax highlighting
 syntax on
 "
-" Esquema de cores do vim
+"Vim color scheme
 colorscheme  gruvbox
 
 set background=dark
 "
-" Régua, quebra e número de linhas:
+"Ruler breaks and number of lines:
 set nolinebreak
 set number
 set ruler
 "
-" Permite a navegação dentro de uma mesma linha longa com j e k
+"It allows navigation within a long line with j and k
 set wrap
 "
-" Insere espaços no lugar de caracteres de tabulação
+"Insert spaces instead of tab characters
 set expandtab
 "
-" Uso inteligente de tabulações
+"Smart Tabs Use
 set smarttab
 "
-" Define uma tabulação como sendo oito espaços
+"Sets a tab as eight spaces
 set shiftwidth=8
 set tabstop=8
 "
-"Toda vez que você fecha um parêntese, colchete ou chave, o Vi mostra onde este foi aberto. Caso não haja  nenhum aberto para este, deixa em vermelho parênteses ou  chaves que não têm um par.
+"Every time you close a parenthesis, bracket or brace, Vi shows where it was opened. If there is no  pair.
 set sm
 "
-"Mostra o nome do arquivo na parte superior do prompt
+"It shows the file name at the top of the prompt
 set title
 
 set laststatus=2
@@ -90,7 +90,7 @@ set noshowmode
 
 set fillchars+=stl:\ ,stlnc:\
 
-"Atalhos
+"Shortcuts
 
 nnoremap <space> @=((foldclosed(line('.')) < 0) ? 'zc' : 'zo')<CR>
 
