@@ -1,27 +1,27 @@
 # Arch Linux
 My Arch Linux workstation!!
  
-![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-18-16:02:36.png "Screenshot")
+![link](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-21-00:05:28.png "Screenshot")
 
 Vim
  
-![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:12:14.png "Vim")
+![link](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-23:50:57.png "Vim")
 
 Ncmpcpp
 
-![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:11:23.png "Ncmpcpp")
+![link](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-23:51:30.png "Ncmpcpp")
 
 Weechat
 
-![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:12:58.png "Weechat")
+![link](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-23:53:14.png "Weechat")
 
 Tmux and others softwares
 
-![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-13:17:27.png "Tmux")
+![link](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-21-00:01:10.png "Tmux")
 
 Oblogout
 
-![alt tag](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-20-17:46:00.png "Oblogout")
+![link](https://github.com/Morgareth/Arch-Linux/blob/master/Screenshots/2016-03-21-00:12:10.png "Oblogout")
 
 
 # Author
